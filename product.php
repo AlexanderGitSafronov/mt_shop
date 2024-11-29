@@ -29,9 +29,11 @@
         <div class="header__right_info">
             <!-- <div class="search"> <a href=""><i class="fa-solid fa-magnifying-glass"></i></a> </div> -->
             <div class="cart">
-                 <a href="./cart.php"><i class="fa-solid fa-cart-shopping"></i></a> 
+            <a href="./cart.php">
+              <img src="./images/cart.png" style="margin-left: -10px;" width="30px" alt="">
+            </a> 
                 <div class="cart_count"></div>
-            </div>
+             </div>
         </div>
     </header>
     <main>
